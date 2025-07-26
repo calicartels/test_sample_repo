@@ -9,3 +9,6 @@ def test_sample2():
 
 def test_sample3():
     return "Hello, World 4!"
+
+def test_sample4():
+    return "Hello, World 5!, latest change"
